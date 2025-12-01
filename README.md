@@ -139,7 +139,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/student-performance-repo.git
+git remote add origin https://github.com/Welberth77/Projeto-IA.git
 git push -u origin main
 ```
 
