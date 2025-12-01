@@ -129,3 +129,35 @@ Todos os scripts são determinísticos:
 
 * random_state fixado
 * divisão treino/teste consistente
+
+---
+
+##  Como enviar para o GitHub
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/student-performance-repo.git
+git push -u origin main
+```
+
+---
+
+##  Dependências Principais
+
+```
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+jupyter
+```
+
+---
+
+## Licença
+
+Este projeto é distribuído sob a licença **MIT**.
