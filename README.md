@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow.svg)](https://jupyter.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Welberth77/Projeto-IA/blob/main/notebooks/analysis.ipynb)
 
 Este repositório implementa e compara modelos de **Regressão Linear** e **Regressão Logística** para previsão de desempenho acadêmico utilizando o dataset *Student Performance* do UCI Machine Learning Repository.
 
