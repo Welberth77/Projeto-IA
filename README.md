@@ -162,7 +162,3 @@ jupyter
 > [https://colab.research.google.com/github/Welberth77/Projeto-IA/blob/main/student-performance-repo/notebooks/analysis.ipynb](https://colab.research.google.com/github/Welberth77/Projeto-IA/blob/main/student-performance-repo/notebooks/analysis.ipynb)
 
 ---
-
-## Licença
-
-Este projeto é distribuído sob a licença **MIT**.
